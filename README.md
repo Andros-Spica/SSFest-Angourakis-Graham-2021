@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/227133875.svg)](https://zenodo.org/badge/latestdoi/227133875)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4605608.svg)](https://doi.org/10.5281/zenodo.4605608)
 
 # Gaming Artificial Anasazi - Transforming an agent-based model in archaeology into immersive gameplay experiences
 Presentation for the Social Simulation Fest (virtual) on 15 March 2021.
